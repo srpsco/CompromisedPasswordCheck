@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-# todo add attributions
-# document including notes on k-anon
-# add support for -h flag
-# add longer text abut changing password wherever it is used
-# add option to show password (hide by default)
-# move usage to a function so we can call it with -h
+# TODO add attributions
+# TODO document including notes on k-anon
+# TODO add support for -h flag
+# TODO add longer text abut changing password wherever it is used
+# TODO add option to show password (hide by default)
+# TODO move usage to a function so we can call it with -h
 
 # Attribution ====================================================================================
 # color from reddit
